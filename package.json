@@ -1,0 +1,24 @@
+{
+  "name": "who-am-i",
+  "version": "1.0.0",
+  "description": "1. 유림님 깃 마일스톤? 그거 라벨! 설정하고,\r 2. 이슈 발행!!\r 3. 이슈 따라 Branch 생성",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-bamsol:bamsol/who-am-I.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.25.4",
+    "prettier": "2.5.1"
+  }
+}
